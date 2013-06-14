@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/dsennfelder/dotfiles'
+let g:netrw_dirhist_2='/opt/workbench/packages/zabbix_agent-2.0.6-1/debian/usr/share/doc/zabbix-agent'
